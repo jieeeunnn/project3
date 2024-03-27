@@ -9,6 +9,7 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
 
         hello1()
+        val inung = ""
     }
 
     fun hello1() {
