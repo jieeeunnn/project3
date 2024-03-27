@@ -5,7 +5,7 @@ plugins {
 
 android {
     namespace = "kr.co.lion.project3"
-    compileSdk = 33
+    compileSdk = 34
 
     defaultConfig {
         applicationId = "kr.co.lion.project3"
