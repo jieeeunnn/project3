@@ -11,6 +11,7 @@ MainActivity : AppCompatActivity() {
 
         hello1()
         val inung = ""
+        val test = "충돌!@#!@#"
     }
 
     fun hello1() {
