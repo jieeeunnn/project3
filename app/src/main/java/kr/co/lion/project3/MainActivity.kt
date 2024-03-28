@@ -21,4 +21,8 @@ MainActivity : AppCompatActivity() {
 
     }
 
+    fun jieun() {
+        println("충돌")
+    }
+
 }
