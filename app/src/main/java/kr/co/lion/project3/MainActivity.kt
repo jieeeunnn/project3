@@ -24,6 +24,7 @@ MainActivity : AppCompatActivity() {
 
     fun jieun() {
         println("충돌")
+        print("충돌222222")
     }
 
 }
